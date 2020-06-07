@@ -8,7 +8,7 @@ public class Trabalho1 {
 		float z;
 		do  { 
 			
-					System.out.println("\nEscolha a operação que vai utiliza:\n");
+					System.out.println("\nEscolha a operação que vai utilizar:\n");
 					System.out.println("1 - SOMA");
 					System.out.println("2 - SUBITRAÇÃO");
 					System.out.println("3 - DIVISÃO");
